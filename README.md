@@ -1,8 +1,6 @@
-# upjv-python-datascience
-travaux dirigés python &amp; datascience-UPJV Amiens
-README = """# Python & Data Science — UPJV Amiens
+# Python & Data Science — UPJV Amiens
 
-**Étudiant·e :** henri Manuelo
+**Étudiant·e :** Henri Manuelo
 **Formation :** L3 Économie
 **Année :** 2026-2027
 
@@ -22,6 +20,3 @@ Python & Data Science réalisés sur Google Colab.
 ## Crédits
 
 Cours de M. Guéry — Faculté d'Économie, UPJV
-"""
-
-print(README)
